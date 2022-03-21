@@ -1,0 +1,132 @@
+body {
+    font-family: 'Exo-2', sans-serif;
+}
+
+.navigat {
+    background-color: rgba(5, 13, 95, 0.884);
+    width: 100%;
+}
+
+.equ-div {
+    padding: 0.5% 3% 0.5% 3%;
+    width: 100%;
+}
+
+.head-logo {
+    color: rgb(168, 255, 242);
+    font-size: 25px;
+}
+
+.li-a {
+    font-size: 18px;
+    font-weight: 650;
+    color: rgb(168, 255, 242);
+}
+
+
+/* .nav-item:focus {
+    background-color: rgba(3, 8, 58, 0.89);
+} */
+
+
+/* li:active {
+    background-color: rgba(3, 8, 58, 0.89);
+} */
+
+.port-section {
+    background-color: rgb(168, 255, 242);
+    padding: 1rem 0rem 3rem 0rem;
+}
+
+.dash {
+    background-color: rgba(4, 9, 71, 0.952);
+    height: 4.5px;
+    width: 100px;
+    margin: 0px 10px 0px 10px;
+}
+
+.star {
+    font-size: 2rem;
+    color: rgba(4, 9, 71, 0.952);
+}
+
+.tiles-div {
+    overflow: hidden;
+}
+
+.tile {
+    width: 33.33%;
+}
+
+.tile-img {
+    width: 26%;
+    margin: 1rem 0px 1rem 0px;
+}
+
+.about-section {
+    background-color: rgb(31, 184, 204);
+}
+
+.about-content {
+    padding: 4rem 0 4rem 0;
+}
+
+.heading-1 {
+    color: rgb(168, 255, 242);
+    font-size: 2.5rem;
+}
+
+.dash-2 {
+    background-color: rgb(168, 255, 242);
+    height: 4.5px;
+    width: 100px;
+    margin: 0px 10px 0px 10px;
+}
+
+.star-2 {
+    font-size: 2rem;
+    color: rgb(168, 255, 242);
+}
+
+.content-words {
+    margin: 1rem 0 1rem 0;
+}
+
+.parag {
+    color: rgb(168, 255, 242);
+    font-size: 1.2rem;
+    font-weight: 545;
+}
+
+.contact-section {
+    background-color: rgb(119, 190, 238);
+}
+
+.contact-div {
+    padding: 4rem 4rem 4rem 4rem;
+}
+
+.form-heading {
+    color: rgb(168, 255, 242);
+    margin-top: 1rem;
+}
+
+.reg-form {
+    background-color: rgb(107, 196, 255);
+    margin: 1rem;
+    padding: 1rem;
+    border: 4px solid rgb(168, 255, 242);
+}
+
+.leyenda {
+    color: rgb(168, 255, 242);
+    font-size: 1.6rem;
+}
+
+.footer-section {
+    background-color: slateblue;
+    height: 0.7in;
+    color: rgb(168, 255, 242);
+    font-size: 0.8rem;
+    padding: 1.5rem;
+}
